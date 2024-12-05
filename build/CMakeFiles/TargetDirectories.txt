@@ -1,0 +1,4 @@
+/Users/venius/Documents/SYSPROG/labwork/laba23/TCPServerProject/build/CMakeFiles/server.dir
+/Users/venius/Documents/SYSPROG/labwork/laba23/TCPServerProject/build/CMakeFiles/client.dir
+/Users/venius/Documents/SYSPROG/labwork/laba23/TCPServerProject/build/CMakeFiles/edit_cache.dir
+/Users/venius/Documents/SYSPROG/labwork/laba23/TCPServerProject/build/CMakeFiles/rebuild_cache.dir
